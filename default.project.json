@@ -1,0 +1,12 @@
+{
+  "name": "DeepSeaAscent",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Main": {
+        "$path": "src/server/Main.server.luau"
+      }
+    }
+  }
+}
